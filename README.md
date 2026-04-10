@@ -19,7 +19,7 @@ We study how the **connectivity** (number of synaptic partners `k`) shifts the s
 ## Repository Structure
 
 ```
-soc-neural-avalanches/
+CLL798---Individual-Project/
 │
 ├── simulation.py         ← Main simulation class + analysis utilities
 ├── run_analysis.py       ← Full connectivity sweep + figure generation
@@ -45,7 +45,7 @@ soc-neural-avalanches/
 
 ```bash
 git clone https://github.com/AlbertAinstine578/CLL798---Individual-Project.git
-cd soc-neural-avalanches
+cd CLL798---Individual-Project
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
